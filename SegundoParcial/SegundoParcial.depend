@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1637718581 source:c:\users\julieta\desktop\laplacejulieta.segundoparciallabo\segundoparcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1637718451 c:\users\julieta\desktop\laplacejulieta.segundoparciallabo\segundoparcial\linkedlist.h
+
+1637759340 source:c:\users\julieta\desktop\laplacejulieta.segundoparciallabo\segundoparcial\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1637760668 c:\users\julieta\desktop\laplacejulieta.segundoparciallabo\segundoparcial\menu.h
+
+1637764382 source:c:\users\julieta\desktop\laplacejulieta.segundoparciallabo\segundoparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"LinkedList.h"
+	"menu.h"
+	"controller.h"
+
+1637760429 source:c:\users\julieta\desktop\laplacejulieta.segundoparciallabo\segundoparcial\movies.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"movies.h"
+
+1637758414 c:\users\julieta\desktop\laplacejulieta.segundoparciallabo\segundoparcial\movies.h
+
+1637763018 c:\users\julieta\desktop\laplacejulieta.segundoparciallabo\segundoparcial\controller.h
+	"LinkedList.h"
+
+1637764109 source:c:\users\julieta\desktop\laplacejulieta.segundoparciallabo\segundoparcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"controller.h"
+	"movies.h"
+	<string.h>
+	"parser.h"
+
+1637758709 c:\users\julieta\desktop\laplacejulieta.segundoparciallabo\segundoparcial\parser.h
+
+1637758796 source:c:\users\julieta\desktop\laplacejulieta.segundoparciallabo\segundoparcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"movies.h"
+	"parser.h"
+
